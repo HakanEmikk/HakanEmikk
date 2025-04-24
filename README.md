@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/7yUVEZP.png" alt="banner" width="100%"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Hakan Emik</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
