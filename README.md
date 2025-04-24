@@ -12,7 +12,7 @@
 - 🔋 Experienced in **BLoC**, **REST APIs**, and **real-time applications**
 - 💬 Ask me about anything related to **mobile development**
 - 📫 How to reach me: **hkn.emk51@gmail.com**
-- 🔗 LinkedIn: [www.linkedin.com/in/hakan-emik](https://www.linkedin.com/in/hakan-emik)
+
 
 ---
 
