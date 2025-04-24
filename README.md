@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hakan-emik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
