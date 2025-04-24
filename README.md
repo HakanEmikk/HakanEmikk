@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakanemik&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanemik&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HakanEmikk&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakanEmikk&layout=compact&theme=radical" alt="top-langs"/>
 </p>
 
 ---
@@ -53,6 +53,6 @@
 ### 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakanemik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hakanemikk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
