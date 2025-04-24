@@ -10,7 +10,6 @@
 - 🛠️ I specialize in **Flutter**, **Dart**, **Kotlin**, and **mobile app architecture**
 - 🧠 Interested in **AI**, **modular systems**, and **clean architecture**
 - 🔋 Experienced in **BLoC**, **REST APIs**, and **real-time applications**
-- 💬 Ask me about anything related to **mobile development**
 - 📫 How to reach me: **hkn.emk51@gmail.com**
 
 
