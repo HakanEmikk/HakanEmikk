@@ -6,7 +6,7 @@
 
 ---
 
-- 🎓 I'm a final-year Computer Engineering student (Graduating May 2025)
+- 🎓 Computer Engineer  (Graduating May 2025)
 - 🛠️ I specialize in **Flutter**, **Dart**, **Kotlin**, and **mobile app architecture**
 - 🧠 Interested in **AI**, **modular systems**, and **clean architecture**
 - 🔋 Experienced in **BLoC**, **REST APIs**, and **real-time applications**
